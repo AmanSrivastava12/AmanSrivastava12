@@ -5,7 +5,7 @@
 <h3 align="center">I am an aspiring Frontend Developer and a</h3>
 <h3 align="center">Computer Engineering Student at Bharati Vidyapeeth (Deemed to be University), Pune</h3>
 
-- I am a 5-star coder at Hackerrank. Here's my profile link : <a href="https://www.hackerrank.com/amansriv12" target="_blank"> <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/hackerrank.svg" alt="hackerrank" width="20" height="20"/> </a>
+- I am a 5-star coder at Hackerrank. <a href="https://www.hackerrank.com/amansriv12" target="_blank">Click here</a> to view my profile. 
 - You can reach me out at: amansriv12@gmail.com
 
 <h3 align="left">Connect with me:</h3>
