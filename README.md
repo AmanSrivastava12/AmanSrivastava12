@@ -1,5 +1,5 @@
 <!--
-**AmanSrivastava12/AmanSrivastava12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AmanSrivastava12/AmanSrivastava12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h1 align="center">Hello, I am Aman Srivastava</h1>
 <h3 align="center">Frontend Developer</h3>
