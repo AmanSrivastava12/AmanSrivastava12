@@ -2,10 +2,10 @@
 **AmanSrivastava12/AmanSrivastava12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h1 align="center">Hello, I am Aman Srivastava</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">I am an aspiring Frontend Developer and a</h3>
 <h3 align="center">Computer Engineering Student at Bharati Vidyapeeth (Deemed to be University), Pune</h3>
 
-- I am a 5-star coder at Hackerrank.
+- I am a 5-star coder at Hackerrank. Here's my profile link : <a href="https://www.hackerrank.com/amansriv12" target="_blank"> <img src="https://en.wikipedia.org/wiki/HackerRank#/media/File:HackerRank_Icon-1000px.png" alt="hackerrank" width="10" height="10"/> </a>
 - You can reach me out at: amansriv12@gmail.com
 
 <h3 align="left">Connect with me:</h3>
