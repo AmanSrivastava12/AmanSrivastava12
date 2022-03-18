@@ -5,7 +5,7 @@
 <h3 align="center">I am an aspiring Frontend Developer and a Computer Engineering Student at Bharati Vidyapeeth (Deemed to be University), Pune</h3>
 
 - I am a 5-star coder at <a href="https://www.hackerrank.com/amansriv12" target="_blank">Hackerrank</a>. 
-- I am among the top 100 students at my University on<a href="https://auth.geeksforgeeks.org/user/amansriv12/practice" target="_blank"> GeeksforGeeks</a>. 
+- I am among the top 50 students at my University on<a href="https://auth.geeksforgeeks.org/user/amansriv12/practice" target="_blank"> GeeksforGeeks</a>. 
 - I am a 2-star coder at <a href="https://leetcode.com/amansri12/" target="_blank">Leetcode</a>. 
 - You can view my earned badges and points on<a href="https://www.hackerearth.com/@aman5012" target="_blank"> Hackerearth</a>. 
 - You can reach me out at : amansriv12@gmail.com
