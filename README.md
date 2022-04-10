@@ -13,7 +13,7 @@
 <h3 align="center">CONNECT WITH ME</h3>
 <p align="center">
 <a href="https://twitter.com/AmanSriv12" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" alt="AmanSrivastava" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aman-srivastava-320601215/" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_174857.png" alt="AmanSrivastava" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aman-srivastava-320601215/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="AmanSrivastava" height="30" width="40" /></a>
 <a href="https://instagram.com/_aman__srivastava_" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" alt="AmanSrivastava" height="30" width="40" /></a>
 </p>
 
