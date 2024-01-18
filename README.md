@@ -5,16 +5,16 @@
 <h3 align="center">I am an aspiring Frontend Developer and a Computer Engineering Student at Bharati Vidyapeeth (Deemed to be University), Pune</h3>
 
 - I am a 5-star coder at <a href="https://www.hackerrank.com/amansriv12" target="_blank">Hackerrank</a>. 
-- I am among the top 10 students at my University on<a href="https://auth.geeksforgeeks.org/user/amansriv12/practice" target="_blank"> GeeksforGeeks</a>. 
+- I am among the top 20 students at my University on<a href="https://auth.geeksforgeeks.org/user/amansriv12/practice" target="_blank"> GeeksforGeeks</a>. 
 - I am a 2-star coder at <a href="https://leetcode.com/amansri12/" target="_blank">Leetcode</a>. 
 - You can view my earned badges and points on<a href="https://www.hackerearth.com/@aman5012" target="_blank"> Hackerearth</a>. 
 - You can reach me out at : amansriv12@gmail.com
 
 <h3 align="center">CONNECT WITH ME</h3>
 <p align="center">
-<a href="https://twitter.com/AmanSriv12" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" alt="AmanSrivastava" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aman-srivastava-320601215/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="AmanSrivastava" height="30" width="40" /></a>
-<a href="https://instagram.com/_aman__srivastava_" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" alt="AmanSrivastava" height="30" width="40" /></a>
+<a href="https://twitter.com/AmanSriv12" target="_blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-4.png" alt="AmanSrivastava" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aman-srivastava-320601215/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="AmanSrivastava" height="30" width="40" /></a>
+<a href="https://instagram.com/_aman__srivastava_" target="_blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" alt="AmanSrivastava" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">LANGUAGES AND TOOLS KNOWN</h3>
